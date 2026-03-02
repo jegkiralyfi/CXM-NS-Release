@@ -1,0 +1,8 @@
+# SHA256 manifest for CXM v5.9.93-RC release
+# Generated: 2026-03-02
+
+f18da8bb39320d0ef8a2bd6595c686e9011f8dab713f7259a962a6f6db15d4ad  CXM_CANONICAL_NS_PUBLIC_v5.9.93_RC.md
+70cd600fa380e72658bdfb7ea2d3693dfc66d0284fa271f7db97c5df639a30b8  README_RELEASE_v5.9.93_RC.md
+385565f69712f3d84a6dbfe6f39ca7318ba1c1781e54899af8bbbf1d28e068bd  CXM_RC_CLEANING_REPORT_v5.9.93_RC.md
+
+# Note: the manifest file itself is not hashed here to avoid self-referential changes.
