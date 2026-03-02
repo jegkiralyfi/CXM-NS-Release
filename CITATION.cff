@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the Zenodo archived release."
+title: "Global regularity for 3D Navier–Stokes via a Gate / No‑Theft critical‑element rigidity spine
+ (Public Release)"
+type: software
+authors:
+  - name: "Feher, Zoltan"
+repository-code: "https://github.com/jegkiralyfi/CXM-NS-Release"
+keywords:
+  - "Navier–Stokes equations"
+  - "3D incompressible Navier–Stokes"
+  - "global regularity"
+  - "partial differential equations"
+  - "Millennium Prize Problem"
+  - "fluid dynamics"
+version: "v5.9.93-rc2"
+date-released: "2026-03-02"
+doi: "10.5281/zenodo.18836382"
